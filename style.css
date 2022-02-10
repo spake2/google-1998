@@ -1,0 +1,44 @@
+img {
+    display: block;
+    margin: auto;
+   
+    
+}
+.content{
+    margin: 0 auto;
+    width: 1700px;
+}
+.search {
+    
+    text-align: center;
+    background-color: #EEEEEE;
+ }
+ 
+ .box{
+     float: left;
+     height: 80px;
+     font-size: 16px;
+     text-align: center;
+ }
+ 
+ .box-left{
+     margin-left: 0;
+     width: 750px;
+     background-color: #7EE5DA;
+ }
+ 
+ .box-center{
+     width: 400px;
+     background-color: #70CCC2;
+ }
+ 
+ .box-right{
+     width: 750px;
+     background-color: #62B3AA;
+ }
+ 
+ .copyright{
+     margin-top: 120px;
+     text-align: center;
+  
+ }
